@@ -1,6 +1,6 @@
 # uBank
 Uni-Projects
-## Presentation Video
+## Presentation Demo
 ![caption](https://github.com/ypo777/uBank/blob/main/Presentation/Announce.gif "uBank Presentation")
 ### Software Requirements
 - Java 8 or later
