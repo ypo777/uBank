@@ -355,7 +355,7 @@ public class adminregister extends javax.swing.JFrame {
                 ps.setString(5, Phonenumber.getText());
                 ps.setString(6,Address.getText());
                 ps.setString(8,text);
-                ps.execute();
+
                 JOptionPane.showMessageDialog(null, "Account Created!");
                 ps.execute();
                 ps1.execute();

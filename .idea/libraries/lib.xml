@@ -3,11 +3,11 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/Real/Banking/dist/lib/org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar!/" />
       <root url="jar://$PROJECT_DIR$/Real/Banking/dist/lib/javax.persistence_2.1.0.v201304241213.jar!/" />
-      <root url="jar://$PROJECT_DIR$/Real/Banking/dist/lib/mysql-connector-java-5.1.23-bin.jar!/" />
       <root url="jar://$PROJECT_DIR$/Real/Banking/dist/lib/rs2xml.jar!/" />
       <root url="jar://$PROJECT_DIR$/Real/Banking/dist/lib/AbsoluteLayout.jar!/" />
       <root url="jar://$PROJECT_DIR$/Real/Banking/dist/lib/jcalendar-1.3.3.jar!/" />
       <root url="jar://$PROJECT_DIR$/Real/Banking/dist/lib/eclipselink.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-8.0.26/mysql-connector-java-8.0.26.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

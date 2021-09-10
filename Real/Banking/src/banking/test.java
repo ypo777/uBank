@@ -6,12 +6,10 @@ public class test {
     static PreparedStatement ps;
     static ResultSet rs;
     public static void main(String[] args){
-        String URL = "jdbc:mysql://localhost:3306/uBank&";
-        String USER = "user=root&";
-        String PASSWORD = "password=Juxdoit2021#";
 
         try{
-            conn = DriverManager.getConnection(URL + USER + PASSWORD );
+            conn = DriverManager.getConnection("jdbc:mysql://localhost/uBank?" +
+                                                    "user=root&password=juxdoit");
             String sql = "select * from Generator";
             ps = conn.prepareStatement(sql);
             rs = ps.executeQuery();

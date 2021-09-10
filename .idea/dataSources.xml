@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="uBank@localhost" uuid="55d668f0-d7fc-4134-918a-5ca0b413bce6">
+    <data-source source="LOCAL" name="uBank" uuid="223ae0f5-5a13-44aa-8b74-581ac3658b79">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/uBank</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
-      <driver-properties>
-        <property name="autoReconnect" value="TRUE" />
-        <property name="useSSL" value="TRUE" />
-      </driver-properties>
     </data-source>
   </component>
 </project>
