@@ -11,7 +11,7 @@ You need to create database in your local machine.
 ```
  mysql -u root -p uBank < ~/repo/location/DataBase/uBank.sql
 ```
-You also need to change mysql root or your user name password in **javaconnect.java**".
+You also need to change mysql root or your user name password in "**javaconnect.java**".
 
 ### TO-DO
 - Update Java DataBase connection for MySQL 8
