@@ -13,6 +13,6 @@ You need to create database in your local machine.
 ```
 You also need to change mysql root or your user name password in "**javaconnect.java**".
 
-### TO-DO
-- Update Java DataBase connection for MySQL 8
-- READme infos
+### Collaborator
+- [Phyo Hein Kyaw](https://github.com/phe-dev)
+- [Aung Htet Nyein](https://github.com/aghtetnyein)
